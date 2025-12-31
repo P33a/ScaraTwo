@@ -39,19 +39,40 @@ Use the supplied screw to hold it.
 
 To assemble the Z joint you will need four  2.5 x 20 mm self tapping screws
 
-![first link](Images/IMG20251229234037.jpg)
-![first link](Images/IMG20251229234408.jpg)
+![second link](Images/IMG20251229234037.jpg)
+![second link](Images/IMG20251229234408.jpg)
 
 The gear must be attached to the round horn using two (or four) 2 x 6 mm self tapping screws
 
-![first link](Images/IMG20251229234536.jpg)
+![second link](Images/IMG20251229234536.jpg)
 
 and then use the supplied screw to atttach it to the servo.
 
-![first link](Images/IMG20251229234749.jpg)
+![second link](Images/IMG20251229234749.jpg)
 
 The claw Servo must be attached using four 2.5 x 12 mm self tapping screws
 
-![first link](Images/IMG20251229235720.jpg)
-![first link](Images/IMG20251230000154.jpg)
+![claws](Images/IMG20251229235720.jpg)
+![claws](Images/IMG20251230000154.jpg)
 
+One claws wil be attached  to the servo using the servo screw and a modified horn
+
+![claws](Images/IMG20251230000459.jpg)
+![claws](Images/IMG20251230000532.jpg)
+
+The original horn with the first cut:
+
+![claws](Images/IMG20251230000651.jpg)
+
+The horn with the final modification and attached to the claw using a 2 x 6 mm self tapping screw
+
+![claws](Images/IMG20251230000946.jpg)
+
+The other claw attache using a 2 x 12 mm self tapping screw
+
+![claws](Images/IMG20251230001525.jpg)
+
+The final connection between the first two links and the rest of the arm
+
+![final](Images/IMG20251230001711.jpg)
+![final](Images/IMG20251230001711.jpg)
