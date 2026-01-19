@@ -76,3 +76,41 @@ The final connection between the first two links and the rest of the arm
 
 ![final](Images/IMG20251230001711.jpg)
 ![final](Images/IMG20251230001711.jpg)
+
+Now you can secure the servo driver board and the Pi Pico motherboard.
+First, the Pi Pico motherboard using four 2 x 10 mm self tapping screws and four washers as the booard holes are larger than the screw heads.
+
+![boards](Images/IMG20260118232020.jpg)
+![boards](Images/IMG20260118232312.jpg)
+
+Then, the servo driver board using four 2 x 10 mm self tapping screws.
+
+![boards](Images/IMG20260118232356.jpg)
+![boards](Images/IMG20260118232608.jpg)
+
+Now, for the optional sensors
+
+If the first two servos are 360º servos you will need an extra position sensor for those joints
+
+You must secure the sensor to its support using four 2 x 6 mm self tapping screws.
+
+![boards](Images/IMG20260118234412.jpg)
+![boards](Images/IMG20260118234547.jpg)
+
+Then you can secure it to the link using four 2 x 10 mm self tapping screws.
+
+![boards](Images/IMG20260118234703.jpg)
+![boards](Images/IMG20260118234837.jpg)
+
+If you want the distance sensor connected to the arm
+First you must secure the sensor to its support using two 2 x 10 mm self tapping screws.
+
+![boards](Images/IMG20260119001107.jpg)
+![boards](Images/IMG20260119001307.jpg)
+
+Then you can secure it to the link using four 2 x 10 mm self tapping screws.
+Do not forget to press the magnet inside the hole alligned with the link axis.
+
+![boards](Images/IMG20260119001418.jpg)
+![boards](Images/IMG20260119001431.jpg)
+
